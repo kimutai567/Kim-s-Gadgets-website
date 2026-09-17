@@ -1,6 +1,6 @@
 # Kim's Gadgets
 
-**Kim's Gadgets** is a simple e‑commerce landing page showcasing quality used and new tech devices — iPhones, Samsung phones, laptops, PS5 consoles, and everyday gadgets.  
+**Kim's Gadgets** is a simple e‑commerce landing page showcasing quality used and new tech devices — iPhones, Samsung phones, laptops, PS5 consoles, everyday gadgetsand phone and laptop accesories.  
 The site emphasizes trust, transparency, and after‑sales support.
 
 ---
