@@ -18,3 +18,7 @@ The site emphasizes trust, transparency, and after‑sales support.
 - **HTML5** for structure
 - **CSS3** (style.css) for styling
 - **Google Fonts
+  
+## Under dev
+ - Order any specific gadget from the site
+request custom product
