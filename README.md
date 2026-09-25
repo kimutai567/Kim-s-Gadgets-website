@@ -11,6 +11,7 @@ The site emphasizes trust, transparency, and after‑sales support.
 - **Why Us section** explaining the brand promise (tested devices, honest grading, support).
 - **Contact section** with WhatsApp integration for direct purchases.
 - **Responsive design** using modern fonts and clean layout.
+  All the gadgets should avalable.
 
 ---
 
