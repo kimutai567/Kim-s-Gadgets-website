@@ -7,7 +7,7 @@ The site emphasizes trust, convenience, transparency, and after‑sales support.
 
 ## ✨ Features
 - **Hero section** with featured product and promotional banner.
-- **Product grid** highlighting latest stock (iPhones, laptops, consoles, accessories).
+- **Product grid** highlighting latest stock (iPhones,Meta Glasses laptops, consoles, accessories).
 - **Why Us section** explaining the brand promise (tested devices, honest grading, support).
 - **Contact section** with WhatsApp integration for direct purchases.
 - **Responsive design** using modern fonts and clean layout.
